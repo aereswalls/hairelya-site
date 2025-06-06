@@ -1,0 +1,12 @@
+# Ignora la cartella node_modules
+node_modules/
+
+# Output statico di Next.js
+out/
+
+# File di log e sistema
+.DS_Store
+.env.local
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
