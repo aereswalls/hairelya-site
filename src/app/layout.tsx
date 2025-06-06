@@ -1,6 +1,6 @@
 import './globals.css'
 import { CssBaseline, ThemeProvider } from '@mui/material'
-import theme from '@/lib/theme'
+import theme from '../lib/theme' // ✅ percorsorelativo che funziona sempre
 
 export const metadata = {
   title: 'Hairelya – Your hair care ritual',
